@@ -1,0 +1,7 @@
+{
+  "name": "image-search",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
